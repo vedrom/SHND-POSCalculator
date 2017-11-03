@@ -1,11 +1,10 @@
-Peercoin Proof-Of-Stake (POS) Calculator
+Stronghands Proof-Of-Stake (POS) Calculator
 ===
 
-http://poscalculator.peercointalk.org/
 
-JavaScript-based Proof-Of-Stake (POS) reward calculator for Peercoin (PPC), also known as PPCoin.
+JavaScript-based Proof-Of-Stake (POS) reward calculator for Stronghands (SHND)cryptocurrency.
 
-Created by FuzzyBear of [Peercointalk](http://peercointalk.org/).
+Original Creator is FuzzyBear of [Peercointalk](http://peercointalk.org/).
 
 This is still in the development and testing phase.
 
@@ -15,19 +14,15 @@ This is still in the development and testing phase.
 
 Peercoin Donation Address: **```PP2fXAvbuPfzFWDKHKuz77b5BWZHi7NDhR```**
 
-![Peercoin Proof-Of-Stake (POS) Calculator Donation QR Code](http://peer4commit.com/projects/5/qrcode.svg "Donate peercoins to this project")
+Stronghands Donation Address: **```SczRFyM8GTQxbwoeDAEwxmpDJJR4HSfytt```**
 
-Please send donations to the above address in order to encourage development contributions, such as code improvements, translations, etc.
+
 
 ### Contributing
 
 [![tip for next commit](http://peer4commit.com/projects/5.svg)](http://peer4commit.com/projects/5)
 
 If you'd like to contribute code to the project, please send a pull request with your improvements.
-
-Each commit that gets pulled into the project's git repo will receive a tip via [Peer4Commit](http://peer4commit.com/).
-
-The current reward for the next tip is shown above. You will receive that amount of peercoins for each commit you contribute to the project.
 
 ## Changelog
 
